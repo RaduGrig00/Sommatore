@@ -40,6 +40,7 @@ public class Sommatore
 		System.out.println(somma20(x));
 		System.out.println(somma100(x));
 		System.out.println(somma200(x));
+		System.out.println(somma200(x));
 	}
 
 }
